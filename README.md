@@ -1,2 +1,2 @@
-# emotion-detector
-Coursera Task
+# Emotion Detection App
+This project detects emotions using Watson NLP.
