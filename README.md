@@ -1,2 +1,2 @@
-# Emotion Detection App
-This project detects emotions using Watson NLP.
+# Kalkulator Bunga
+ini kalkulator bunga
